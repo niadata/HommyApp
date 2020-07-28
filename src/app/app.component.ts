@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
     },
     {
       title: 'Favorites',
-      url: '/folder/favorites',
+      url: '/favorites',
       icon: 'heart'
     },
     {
